@@ -2,6 +2,12 @@
 
 Submitted to Journal of E-Science librarianship July 2019.
 
+## Authors:
+Trisha Adamus, MLIS, UW-Madison, Madison, WI, USA
+Cameron Cook, MA-LIS, UW-Madison, Madison, WI, USA
+Tobin Magle, Ph.D., UW-Madison, Madison, WI, USA
+Heather Shimon, MA-LIS, UW-Madison, Madison, WI, USA
+
 ## Abstract
 Currently, many universities are encouraging an undergraduate research experience where students engage in research projects in the classroom and in research labs, yet research data management is often not included as part of these opportunities. This creates a perfect time to introduce students to threshold concepts involving good practices across the data life cycle and to plant the seed that data is something to cultivate and steward.
 
