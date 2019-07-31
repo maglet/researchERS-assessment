@@ -4,8 +4,11 @@ Submitted to Journal of E-Science librarianship July 2019.
 
 ## Authors:
 Trisha Adamus, MLIS, UW-Madison, Madison, WI, USA
+
 Cameron Cook, MA-LIS, UW-Madison, Madison, WI, USA
+
 Tobin Magle, Ph.D., UW-Madison, Madison, WI, USA
+
 Heather Shimon, MA-LIS, UW-Madison, Madison, WI, USA
 
 ## Abstract
