@@ -7,7 +7,8 @@ Currently, many universities are encouraging an undergraduate research experienc
 At UW-Madison, we piloted researchERS (Emerging Research Scholars), a program for undergraduates from all disciplines to learn data management skills. Focusing on core concepts as well as data ethics, reproducibility, and research workflows, the format of the program included seven evening workshops, two networking events, and one field trip. Each workshop invited campus and community speakers relevant to the workshop’s theme as a way to introduce the students to the network of available resources and data expertise and provided food for attendees. The workshops also built in customized activities to show students how to incorporate best practices into their work. Local businesses provided a tour of their facilities as well as a talk on how they leverage data for the students. This paper will describe this program and the benefits and drawbacks of tailoring a research data management program toward undergraduates. 
 
 ## Data dictionary
-Variable|Definition|Acceptable Values|
+Variable|Definition|Acceptable Values
+---|---|---
 Overall| Answer to the question: "Overall I would rate the workshop as..."|"Good", "Excellent" "Fair", "Poor" 
 data_value|Agreement that the following learning objective was met: "Understanding that data has value and requires diligent organization and management" | "Strongly Agree", "Agree","Not Sure", "Disagree" "Strongly Disagree"
 ethics|Agreement that the following learning objective was met: "Recognizing that data collection, use, and sharing include ethical, social, and legal considerations"|"Strongly Agree", "Agree","Not Sure", "Disagree" "Strongly Disagree"
